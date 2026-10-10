@@ -6,8 +6,6 @@ I enjoy turning ideas into practical AI applications — from training computer 
 
 I'm particularly interested in **Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Data Engineering**.
 
-> **Beyond training models — building AI systems that solve real problems.**
-
 ---
 
 ### What I'm Working On
